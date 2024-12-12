@@ -26,7 +26,9 @@ In this project, I utilized the **"Wealth of Nations"** dataset to gain insights
 - 🌎 **Regional Comparisons**: Dive into wealth disparities and population insights.  
 - 🔍 **Key Indicators**: Uncover what drives wealth in different nations.  
 
-![Sample Visualization](https://via.placeholder.com/800x400?text=Insert+Visualization+Image+Here)  
+<img src="https://github.com/user-attachments/assets/31b1356d-94b9-4ffa-bb48-f7b77ae8d234" alt="Alt Text" width="400" height="250">
+<img src="https://github.com/user-attachments/assets/fbbde20a-479c-40c9-ba19-476b3cdce5d9" alt="Alt Text" width="400" height="250">
+
 
 ---
 
