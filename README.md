@@ -8,14 +8,16 @@ Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove 
 
 ---
 
-## 🛠️ Tools and Skills  
-### Excel Mastery: 💡  
-- **Data Cleaning**: Say goodbye to messy data! 🧽 Cleaned up inconsistencies, handled missing values, and structured the dataset like a pro.  
-- **Data Manipulation**: Summarized key metrics using formulas, pivot tables, and a sprinkle of spreadsheet magic! ✨  
-
-### Tableau Wizardry: 🧙‍♂️  
-- **Visualizations**: Built 4 engaging visuals: bar charts 📊, line graphs 📈, and maps 🗺️ that reveal fascinating insights.  
-- **Dashboard Design**: Combined all visuals into a sleek, interactive dashboard that tells a powerful story at a glance!  
+## Project Overview 
+In this project, I utilized the **"Wealth of Nations"** dataset to gain insights into various economic indicators across different countries. The exploration and analysis were carried out using Microsoft Excel, and the visualizations were crafted and combined into a comprehensive dashboard using Tableau. 
+## Key Features 
+- **🧹 Data Cleaning and Manipulation**: Utilized Excel to clean and prepare the dataset by removing inconsistencies, handling missing values, and transforming data for analysis.
+- **🔍 Advanced Data Analysis**: Conducted in-depth data analysis in Excel to uncover patterns and trends.
+- **📈 Visualization Skills**: Created four insightful visuals in Tableau to represent key findings from the dataset.
+- **📊 Dashboard Creation**: Combined the visuals into an interactive Tableau dashboard for an intuitive and engaging presentation of the data.
+## Tools Used
+- **Microsoft Excel**: For data cleaning, manipulation, and initial data analysis. ✨
+- **Tableau**: For creating visualizations and developing the dashboard. 🎨 
 
 ---
 
